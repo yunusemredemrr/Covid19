@@ -1,16 +1,14 @@
-# covid19
+# Covid19
 
-A new Flutter project.
+Covid19 data simulated.
 
-## Getting Started
+## In-App Arguments
 
-This project is a starting point for a Flutter application.
+Api: https://api.covid19api.com/dayone/country/{country_name}/status/confirmed
 
-A few resources to get you started if this is your first Flutter project:
+I used clean architecture as architecture.
+I also used clean architecture state management.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Application Pictures
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![covid19](https://user-images.githubusercontent.com/50717631/153951637-40b094a3-7e55-4b8d-ad36-8a03ff267ef8.gif)
