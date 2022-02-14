@@ -4,7 +4,7 @@ Covid19 data simulated.
 
 ## In-App Arguments
 
-Api: https://api.covid19api.com/dayone/country/{country_name}/status/confirmed
+API: https://api.covid19api.com/dayone/country/{country_name}/status/confirmed
 
 I used clean architecture as architecture.
 I also used clean architecture state management.
